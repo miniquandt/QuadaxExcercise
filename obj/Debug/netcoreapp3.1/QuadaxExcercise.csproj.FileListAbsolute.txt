@@ -1,0 +1,12 @@
+/Users/frelsi/Documents/Dotnet/QuadaxExcercise/bin/Debug/netcoreapp3.1/QuadaxExcercise.deps.json
+/Users/frelsi/Documents/Dotnet/QuadaxExcercise/bin/Debug/netcoreapp3.1/QuadaxExcercise.runtimeconfig.json
+/Users/frelsi/Documents/Dotnet/QuadaxExcercise/bin/Debug/netcoreapp3.1/QuadaxExcercise.runtimeconfig.dev.json
+/Users/frelsi/Documents/Dotnet/QuadaxExcercise/bin/Debug/netcoreapp3.1/QuadaxExcercise.dll
+/Users/frelsi/Documents/Dotnet/QuadaxExcercise/bin/Debug/netcoreapp3.1/QuadaxExcercise.pdb
+/Users/frelsi/Documents/Dotnet/QuadaxExcercise/obj/Debug/netcoreapp3.1/QuadaxExcercise.csprojAssemblyReference.cache
+/Users/frelsi/Documents/Dotnet/QuadaxExcercise/obj/Debug/netcoreapp3.1/QuadaxExcercise.AssemblyInfoInputs.cache
+/Users/frelsi/Documents/Dotnet/QuadaxExcercise/obj/Debug/netcoreapp3.1/QuadaxExcercise.AssemblyInfo.cs
+/Users/frelsi/Documents/Dotnet/QuadaxExcercise/obj/Debug/netcoreapp3.1/QuadaxExcercise.csproj.CoreCompileInputs.cache
+/Users/frelsi/Documents/Dotnet/QuadaxExcercise/obj/Debug/netcoreapp3.1/QuadaxExcercise.dll
+/Users/frelsi/Documents/Dotnet/QuadaxExcercise/obj/Debug/netcoreapp3.1/QuadaxExcercise.pdb
+/Users/frelsi/Documents/Dotnet/QuadaxExcercise/obj/Debug/netcoreapp3.1/QuadaxExcercise.genruntimeconfig.cache
